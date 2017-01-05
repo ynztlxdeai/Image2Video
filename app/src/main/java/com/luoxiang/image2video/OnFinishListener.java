@@ -6,7 +6,7 @@ package com.luoxiang.image2video;
  * className:	        OnFinishListener
  * author:	            Luoxiang
  * time:	            2017/1/5	10:57
- * desc:	            TODO
+ * desc:	            视频完成后的回调接口
  *
  * svnVersion:	        $Rev
  * upDateAuthor:	    Vincent

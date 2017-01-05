@@ -10,12 +10,20 @@ import com.googlecode.javacv.cpp.opencv_core;
 import java.io.File;
 
 import static com.googlecode.javacv.cpp.opencv_highgui.cvLoadImage;
-
 /**
- * convertFromBitmaptoVideo
- * @author yanjiaqi  qq:985202568
+ * packageName:	    com.luoxiang.image2video
+ * className:	    VideoCapture
+ * author:	        Luoxiang
+ * time:	        2017/1/5	11:17
+ * desc:	        视频生成类
  *
+ * svnVersion:
+ * upDateAuthor:    Vincent
+ * upDate:          2017/1/5
+ * upDateDesc:      TODO
  */
+
+
 public class VideoCapture {
     private static int     switcher = 0;//录像键
     private static boolean isPaused = false;//暂停键
